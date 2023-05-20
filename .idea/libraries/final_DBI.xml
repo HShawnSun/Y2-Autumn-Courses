@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="final_DBI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Databases and Interfaces/final_DBI/LSDBI_013.Python_and_Flask_Examples.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Databases and Interfaces/final_DBI/LSDBI_011.Hypertext_Markup_Language_Examples.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Databases and Interfaces/final_DBI/LSDBI_016.Client._Side_Scripting-Examples.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Databases and Interfaces/final_DBI/LSDBI_012.Cascading_Style_Sheets_Examples.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
